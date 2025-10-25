@@ -1,11 +1,22 @@
 ##Olá, como vai? 👋
 
-Eu sou o **anderson Donizete da Guia** is a ✨ _special_ ✨
+Eu sou o **anderson Donizete da Guia**✨ _special_ ✨
+
 Aqui vivem os trabalhos que sobreviveram às madrugadas, os projetos que deram certo (e alguns que não) e tudo que aprendi. Fique à vontade para explorar!.
 
 Um pouco mais sobre mim::
 
 - 🔭 Atualmente estou trabalhando em ...
+-
+-         Professor Universitário:
+-             - Enhenharia da Computação
+-             - Engenharia Elétrica
+-
+-         Professor da Seduc/SP:
+-             - Matemática
+-             - Física
+-             - Tecnologia  
+- 
 - 🌱 Atualmente estou aprendendo ...
 - 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...

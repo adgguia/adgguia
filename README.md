@@ -1,9 +1,9 @@
 ##Olá, como vai? 👋
 
-<!--
-**adgguia/adgguia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o **anderson Donizete da Guia** is a ✨ _special_ ✨
+Aqui vivem os trabalhos que sobreviveram às madrugadas, os projetos que deram certo (e alguns que não) e tudo que aprendi. Fique à vontade para explorar!.
 
-Here are some ideas to get you started:
+Um pouco mais sobre mim::
 
 - 🔭 Atualmente estou trabalhando em ...
 - 🌱 Atualmente estou aprendendo ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 Como me encontrar: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade : ...
--->

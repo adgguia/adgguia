@@ -11,7 +11,10 @@ Aqui vivem os trabalhos que sobreviveram às madrugadas, os projetos que deram c
 🎓 Pós-Graduação em Gestão Estratégica da Tecnologia da Informação 🏫 Universidade Cidade Verde (UniCV) – 📅 2025  
 📐 Licenciatura em Matemática 🏫 Universidade Cidade Verde (UniCV) – 📅 2025  
 💻 Graduação em Engenharia da Computação 🏫 Universidade Virtual do Estado de São Paulo (UNIVESP) – 📅 2025  
-🌐 Graduação em Tecnologia da Informação – Ênfase em Internet das Coisas (IoT) 🏫 Universidade Virtual do Estado de São Paulo (UNIVESP) – 📅 2024  
+🌐 Graduação em Tecnologia da Informação – Ênfase em IoT 🏫 Universidade Virtual do Estado de São Paulo (UNIVESP) – 📅 2024
+
+🛡️ Especialização com Residência em Cibersegurança – Red Team 🏫 FACENS / CPQD / Ministério da Ciência e Técnologia  
+⚙️ Especialização com Residência em Sistemas Embarcados 🏫 Instituto do Hardware / SOFTEX / Ministério da Ciência e Técnologia
 
 🔍 **Assuntos de Interesse**
 

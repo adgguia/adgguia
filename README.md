@@ -15,4 +15,8 @@ Aqui vivem os trabalhos que sobreviveram às madrugadas, os projetos que deram c
 
 🔍 **Assuntos de Interesse**
 
-🛡️ Cibersegurança | 📡 Internet das Coisas (IoT) | 📊 Ciência de Dados | 🧠 Inteligência Artificial | 🚀 Inovação e Startups  
+🛡️ [Cibersegurança](https://github.com/seuusuario/cybersecurity-labs) |
+📡 [Internet das Coisas (IoT)](https://github.com/seuusuario/iot-projects) |
+📊 [Ciência de Dados](https://github.com/seuusuario/data-science-experiments) |
+🧠 [Inteligência Artificial](https://github.com/seuusuario/ai-models) |
+🚀 [Inovação e Startups](https://github.com/seuusuario/startup-ideas)

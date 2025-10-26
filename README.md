@@ -1,6 +1,7 @@
 **Olá, como vai?** 👋 Eu sou o **Anderson da Guia**  
 
-Aqui vivem os trabalhos que sobreviveram às madrugadas, os projetos que deram certo (e alguns que não) e tudo que aprendi. Fique à vontade para explorar!.
+Aqui vivem os trabalhos que sobreviveram às madrugadas, os projetos que deram certo (e alguns que não) e tudo que aprendi.  
+Fique à vontade para explorar!.
 
 💼 **Experiência Profissional**  
 🏫 Unilago – União das Faculdades dos Grandes Lagos | Professor Universitário  

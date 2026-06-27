@@ -4,6 +4,7 @@ Aqui vivem os trabalhos que sobreviveram às madrugadas, os projetos que deram c
 Fique à vontade para explorar!.
 
 💼 **Experiência Profissional**  
+🏛️ Governo do Estado de São Paulo | Professor/Coodenador Técnico em Desenvolvimento de Sistemas
 🏫 Unilago – União das Faculdades dos Grandes Lagos | Professor Universitário  
 🧪 FAT – Fundação de Amparo à Tecnologia (Projeto Qualifica SP) | Professor Freelancer de Arquitetura de Sistemas   
 🏛️ Governo do Estado de São Paulo | Professor de Matemática, Física e Tecnologia
